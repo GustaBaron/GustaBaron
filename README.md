@@ -4,11 +4,10 @@
 🌐 Focado aprender e construir aplicações robustas e intuitivas.<br>
 <h1>Ferramentas e Habilidades</h1>
 <h2>Frontend</h2>
-HTML5, CSS, JavaScript, Bootstrap <br>
-Frameworks: React<br>
+HTML5, CSS, JavaScript, Bootstrap, React <br>
 <h2>Backend</h2>
-Node.js, Python <br>
-Banco de Dados:MySQL, APIs<br>
+Python, MySQL, APIs <br>
+Banco de Dados:<br>
 <h2>Controle de Versão</h2>
 Git, GitHub
 
