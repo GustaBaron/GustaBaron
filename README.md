@@ -8,8 +8,8 @@ HTML5, CSS, JavaScript, Bootstrap <br>
 Frameworks: React
 <br>
 <h2>Backend</h2>
-Node.js, Python 
-Banco de Dados:  MySQL, APIs
+Node.js, Python <br>
+Banco de Dados:  MySQL, APIs<br>
 Ferramentas e Outras Habilidades<br>
 Controle de Versão: Git, GitHub
 
