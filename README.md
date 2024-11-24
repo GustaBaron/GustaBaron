@@ -4,7 +4,7 @@
 🌐 Focado aprender e construir aplicações robustas e intuitivas.<br>
 <h1>Ferramentas e Habilidades</h1>
 <h2>Frontend</h2>
-HTML5, CSS, JavaScript, Bootstrap <br>
+HTML5, CSS, JavaScript, Bootstrap, Vue.js <br>
 <h2>Backend</h2>
 Python, MySQL, APIs <br>
 <h2>Controle de Versão</h2>
