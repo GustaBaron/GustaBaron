@@ -13,6 +13,8 @@ Git, GitHub
 
 ## Development Stack 🛠️
 <div style="display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"
+        alt="Java">
     <img align="center" src="https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=python&logoColor=white"
         alt="Python">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -27,10 +29,7 @@ Git, GitHub
         alt="MySQL">
     <img align="center" src="https://img.shields.io/badge/Vue.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
         alt="Vue.js">
-    <img align="center" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"
-        alt="Java">
-    <img aling="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"
-        alt="GitHub">
+    
 </div>
 
 ## 🌍 &nbsp;Activities
