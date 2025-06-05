@@ -6,7 +6,7 @@
 <h2>Frontend</h2>
 HTML5, CSS, JavaScript, Bootstrap, Vue.js <br>
 <h2>Backend</h2>
-Python, MySQL, APIs <br>
+Java, Python, MySQL, APIs <br>
 <h2>Controle de Versão</h2>
 Git, GitHub
 
