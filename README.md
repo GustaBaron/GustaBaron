@@ -29,6 +29,8 @@ Git, GitHub
         alt="Vue.js">
     <img align="center" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"
         alt="Java">
+    <img aling="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"
+        alt="GitHub">
 </div>
 
 ## 🌍 &nbsp;Activities
