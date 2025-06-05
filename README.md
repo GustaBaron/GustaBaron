@@ -27,6 +27,8 @@ Git, GitHub
         alt="MySQL">
     <img align="center" src="https://img.shields.io/badge/Vue.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
         alt="Vue.js">
+    <img align="center" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"
+        alt="Java">
 </div>
 
 ## 🌍 &nbsp;Activities
