@@ -12,8 +12,7 @@ Git, GitHub
 
 ## Development Stack 🛠️
 <div style="display: inline-block;">
-    <img align="center" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"
-        alt="Java">
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
     <img align="center" src="https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=python&logoColor=white"
         alt="Python">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
