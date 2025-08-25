@@ -3,10 +3,9 @@
 🎓 Estudante de Engenharia de Software.<br>
 🌐 Focado aprender e construir aplicações robustas e intuitivas.<br>
 <h1>Ferramentas e Habilidades</h1>
-<h2>Frontend</h2>
-HTML5, CSS, JavaScript, Bootstrap, Vue.js <br>
-<h2>Backend</h2>
+<h2>Skills</h2>
 Java, Python, MySQL, APIs <br>
+HTML5, CSS, JavaScript, Bootstrap, Vue.js <br>
 <h2>Controle de Versão</h2>
 Git, GitHub
 
