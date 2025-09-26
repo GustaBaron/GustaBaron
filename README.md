@@ -8,6 +8,7 @@ HTML5, CSS, JavaScript, Bootstrap, Vue.js <br>
 <h2>Controle de Versão</h2>
 Git, GitHub
 
+---
 
 ## Development Stack 🛠️
 
@@ -29,10 +30,18 @@ Git, GitHub
 ![Vue.js](https://img.shields.io/badge/Vue.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)      
 </div>
 
+---
+
 ## 🌍 &nbsp;Activities
 <p align="center">
      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustaBaron&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />  
      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBaron&hide=c%23,powershell,Mathematica,Ruby,HTML,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Evoluindo e Aprendendo Sempre"</i>
 </p>
 
 
