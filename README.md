@@ -4,7 +4,9 @@
 🌐 Focado aprender e construir aplicações robustas e intuitivas.<br>
 <h1>Ferramentas e Habilidades</h1>
 Java, Python, MySQL, APIs <br>
-HTML5, CSS, JavaScript, Bootstrap, Vue.js <br>
+HTML5, CSS, JavaScript, Vue.js <br>
+<h2>FrameWork's</h2>
+BootStrap. SpringBoot<br>
 <h2>Controle de Versão</h2>
 Git, GitHub
 
