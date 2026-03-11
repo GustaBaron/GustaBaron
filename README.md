@@ -6,14 +6,14 @@
 ## 🚀 Habilidades  
 
 ### 🎨 Frontend  
-- HTML5, CSS3, JavaScript (ES6+)  
+- HTML5, CSS3, JavaScript (ES6+)
 - Frameworks: Vue.js, React, BootStrap
 - Design responsivo e acessibilidade  
 
 ### ⚙️ Backend  
 - Golang, Java, Python, PHP, Node.js
-- Frameworks: Spring Boot
-- Banco de Dados: MySQL, Oracle, PL/SQL  
+- Frameworks: Spring Boot, Hybernate, .NET
+- Banco de Dados: MySQL, Oracle, PL/SQL, PostgreSQL  
 - Integração de APIs e WebServices  
 
 ### 🛠️ Ferramentas  
